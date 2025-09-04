@@ -16,5 +16,6 @@ public class SwaggerConfig {
                         .version("1.0")
                         .description("API documentation for my wedding backend application"));
     }
+    
 }
 
